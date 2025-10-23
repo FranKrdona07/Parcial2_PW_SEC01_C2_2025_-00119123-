@@ -1,0 +1,22 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_-00119123-",
+  "version": "1.0.0",
+  "description": "Segundo examen parcial de PW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranKrdona07/Parcial2_PW_SEC01_C2_2025_-00119123-.git"
+  },
+  "author": "Francisco Jose Cardona Mejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranKrdona07/Parcial2_PW_SEC01_C2_2025_-00119123-/issues"
+  },
+  "homepage": "https://github.com/FranKrdona07/Parcial2_PW_SEC01_C2_2025_-00119123-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
